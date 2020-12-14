@@ -18,6 +18,7 @@
     width: 140px;
     height: auto;
     padding: 20px 100px;
+    margin: auto;
 }
 .navbar ul{
     float: right;
